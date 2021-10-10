@@ -1,4 +1,4 @@
-helloci test
+helloci test 123 
 =======
 
 Test projects for Git training
